@@ -1,0 +1,40 @@
+.form {
+    width: 320px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+    width: 320px;
+    margin: 15px auto 5px auto;
+    padding-left: 15px;
+}
+
+input {
+    display: block;
+    box-sizing: border-box;
+    margin: auto;
+    height: 30px;
+    width: 320px;
+    border: 1px solid lightgray;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+    box-sizing: border-box;
+    margin: 15px auto;
+    height: 60px;
+    width: 320px;
+
+    border: none;
+    border-radius: 20px;
+
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 0.6px;
+    color: white;
+    background-color: green;
+}
